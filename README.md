@@ -101,4 +101,4 @@ npm run build
 
 ---
 
-**GPT 프로젝트 링크**: https://chatgpt.com/g/g-p-690bff5f94548191a4d7c6eaaaf2c330-saengseonghyeong-ai-hwalyong-sueob-gwaje-peurojegteu/project
+** S Team 노션 링크**: https://www.notion.so/k52524/S-Team-257a50f07615815c8210fb082ae02cd5
